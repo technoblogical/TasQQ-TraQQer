@@ -1,0 +1,23 @@
+as <blank> in order to <blank> I want to <blank>
+
+Managers
+HR People (for Payroll)
+Employees
+
+Record start/time spent on tasks.
+Add up time spent on tasks.
+Print out a report of all time spent on all tasks.
+Print a report on a how much a user should be paid based on hours worked.
+Alert when employees have no data recorded.
+Add additional people to the list.
+Remove people from the list.
+
+As an HR Person, in order to know how much to pay, I want to know how how much users should be paid.
+As an HR Person, in order to properly track employees, I need to be able to add/remove people from the system.
+
+As a Manager, in order know that my business runs efficiently, I want to print reports of how long each employee worked on each task.
+As a Manager, in order to know that employess aren't leaving early, I want to print a report of total time spent on tasks.
+As a Manager, in order to know when employees are coming in at all, I want to receive an alert to empty fields
+
+As an Employee, in order to track time spent on tasks, I want the program to record my start and stop time accurately.
+As an Employee, in order to know I am not being short changed on my paycheck, I need to know the total hours I worked for a week.

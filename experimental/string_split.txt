@@ -1,0 +1,14 @@
+string = "this is a string"
+string = string.split(" ")
+puts = string
+
+I can use this to split the jobs line into an array that can then be used to look up tasks.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Also...
+
+string = " "
+string = string.split(" ")
+puts = string
+
+results in ...
+[]
